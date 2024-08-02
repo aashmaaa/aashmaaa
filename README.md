@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
- 🌱 I’m currently learning NodeJS and React
+I’m currently learning NodeJS and React
 
 ## Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## Contact Me
-- Email: [aashmaaa@gmail.com]
+- Email: [ashma.sapkotaaa@gmail.com]
 
 
 
