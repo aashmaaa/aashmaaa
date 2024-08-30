@@ -2,7 +2,7 @@
 
 
 
-I’m currently learning NodeJS and React
+I’m currently learning NodeJS and React!!
 
 ## Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
